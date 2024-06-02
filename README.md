@@ -77,6 +77,9 @@
 
 * 시연 영상
 
+  <img src = "https://github.com/subin111/Quitsmoking_management-system/assets/143717650/e1abefeb-4707-4b4f-ad3d-0e2f576974fc" width = "300" height = "300"/>
+
+
   
 ## 5. 결론
 
