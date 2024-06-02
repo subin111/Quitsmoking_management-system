@@ -35,6 +35,7 @@
    1. 가스 센서
    2. DC 모터
    3. OLED
+   4. TCP Telnet Terminal 어플리케이션
 
       가스 센서가 일정 값 이상 감지되면 OLED에 Cigarette detection!! 출력과 동시에 DC 모터 작동 (진동 모터 대신)하며, 손목에 착용하는 웨어러블 디바이스로 시계 기능 추가하였음.
    
