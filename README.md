@@ -40,7 +40,15 @@
    
    <img src ="https://github.com/subin111/Quitsmoking_management-system/assets/143717650/96c8fd46-b3c1-4ea0-854e-87afb4713cb3" width = "200" height = "250"/>
 
+   * 오작동 강제종료 버튼
 
+     오작동과 간접 흡연 등 다양한 환경에서 흡연을 하지 않았음에도 센서가 작동되는 경우를 제외하기 위해
+     핸드폰으로 모터제어버튼을 눌러 오작동 하였을 때 강제 종료되게 구현함
+
+     <img src = "https://github.com/subin111/Quitsmoking_management-system/assets/143717650/3f825cf9-fcc2-437a-8185-5232605ac4a4" width = "200" height = "400"/>
+     <img src = "https://github.com/subin111/Quitsmoking_management-system/assets/143717650/66f6301b-c46a-45bc-ba17-d618b6ec3376" width = "200" height = "400"/>
+
+   
 ### 2. Raspberry Pi (Main Server, Database) * 추후 코드 수정
 
  1. MariaDB & PhpMyAdmin
