@@ -38,7 +38,7 @@
 
       가스 센서가 일정 값 이상 감지되면 OLED에 Cigarette detection!! 출력과 동시에 DC 모터 작동 (진동 모터 대신)하며, 손목에 착용하는 웨어러블 디바이스로 시계 기능 추가하였음.
    
-   <img src = "https://github.com/subin111/Quitsmoking_management-system/assets/143717650/96c8fd46-b3c1-4ea0-854e-87afb4713cb3" width = "200" height = "250"/>
+   <img src ="https://github.com/subin111/Quitsmoking_management-system/assets/143717650/96c8fd46-b3c1-4ea0-854e-87afb4713cb3" width = "200" height = "250"/>
 
 
 ### 2. Raspberry Pi (Main Server, Database) * 추후 코드 수정
@@ -47,10 +47,10 @@
 
     디바이스로부터 받은 데이터를 그룹 별 테이블 안에 user1, user2 ... 사용자 별로 하루 동안의 흡연 횟수를 날짜와 함께 저장
 
-    <img = src"https://github.com/subin111/Quitsmoking_management-system/assets/143717650/058b5e95-4d3b-4397-9ce7-efa6790671fa" width = "300" height = "200"/>
+    <img src = "https://github.com/subin111/Quitsmoking_management-system/assets/143717650/058b5e95-4d3b-4397-9ce7-efa6790671fa" width = "300" height = "200"/>
 
     
-    <img = src"https://github.com/subin111/Quitsmoking_management-system/assets/143717650/d0798a6a-1b7c-4641-9b65-9ceb93d1495a" width = "300" height = "200"/>
+    <img src ="https://github.com/subin111/Quitsmoking_management-system/assets/143717650/d0798a6a-1b7c-4641-9b65-9ceb93d1495a" width = "300" height = "200"/>
 
 
 ### 3. STM32F429 (Control Center)
