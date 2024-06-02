@@ -60,7 +60,7 @@
       서버에서 하루 동안의 흡연횟수 정보를 받아 그룹 구성원의 하루 흡연 성공여부를 LCD에 출력 
 
 
-      "img src = "https://github.com/subin111/Quitsmoking_management-system/assets/143717650/c19bcb52-c280-42fc-9006-54aca1f57441" width = "200" height = "230"/>
+      <img src = "https://github.com/subin111/Quitsmoking_management-system/assets/143717650/c19bcb52-c280-42fc-9006-54aca1f57441" width = "200" height = "230"/>
 
       
 
