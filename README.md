@@ -50,7 +50,7 @@
     <img src = "https://github.com/subin111/Quitsmoking_management-system/assets/143717650/058b5e95-4d3b-4397-9ce7-efa6790671fa" width = "500" height = "200"/>
 
     
-    <img src ="https://github.com/subin111/Quitsmoking_management-system/assets/143717650/d0798a6a-1b7c-4641-9b65-9ceb93d1495a" width = "300" height = "100"/>
+    <img src ="https://github.com/subin111/Quitsmoking_management-system/assets/143717650/d0798a6a-1b7c-4641-9b65-9ceb93d1495a" width = "400" height = "100"/>
 
 
 ### 3. STM32F429 (Control Center)
