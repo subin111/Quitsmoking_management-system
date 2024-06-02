@@ -23,7 +23,10 @@
 
 ## 2. 프로젝트 구성
 
-* 개발 환경
+* 시스템 구성도
+
+  <img src="https://github.com/subin111/Quitsmoking_management-system/assets/143717650/f56d9c26-b3dc-4a90-98c1-231922db03de" width="550" height="400"/>
+
 
 ## 3. 구현 과정
 ## 4. 구현 결과
