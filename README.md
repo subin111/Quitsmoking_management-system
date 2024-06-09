@@ -1,4 +1,5 @@
-# Quitsmoking_management system
+# Quitsmoking_management-system
+  아두이노(금연 팔찌) + STM32F329(관제 센터) + 소켓 통신 + 서버 - DB 연계를 통한 스마트 금연관리 시스템
 
    ## 목차
    
